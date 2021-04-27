@@ -8,7 +8,7 @@
 		<title>전체 상품 조회</title>
 	</head>
 	<body>
-		<h3> 전체 상품 조회</h3>
+		<h3> 전체 상품 조회: 수정했음</h3>
 		<table border="1" width="600">
 			<tr><th>상품번호</th><th>상품명</th><th>가격</th>
 					<th>제조사</th><th>재고</th></tr>
